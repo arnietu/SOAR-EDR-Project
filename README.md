@@ -1,1 +1,62 @@
 # SOAR-EDR-Project
+
+![51](https://github.com/user-attachments/assets/53eb2988-6f39-4d42-95d0-709594aed5d5)
+![1 Create VM](https://github.com/user-attachments/assets/6ae92884-9f37-45f8-b475-3108ea3b2a62)
+![2 Configure Firewall](https://github.com/user-attachments/assets/25dc8a32-087f-4b85-934c-cb41febbf2b0)
+![3  Create Organization](https://github.com/user-attachments/assets/7ace8dfd-ac1b-401a-a969-75ce7faa0391)
+![4 Create Installation Key](https://github.com/user-attachments/assets/e60835ab-ebac-40d1-b005-b9fa8b401b21)
+![5 Download Windows 64bit to VM](https://github.com/user-attachments/assets/7237bcfa-4ea8-447e-bb2c-c8175dd4bd31)
+![6 Powershell Navigation](https://github.com/user-attachments/assets/d286572d-c719-45b6-b461-b9bbc59f8fda)
+![7 Install Agent](https://github.com/user-attachments/assets/994b2ea1-b24e-4d9a-90e5-8d7797a45aaf)
+![8 Services](https://github.com/user-attachments/assets/630a27c1-16dd-4d13-aad0-0080029fe7b7)
+![9 VM reflected](https://github.com/user-attachments/assets/bae93bd0-7d9e-40bb-b7cb-743a3eb784f3)
+![10 The LaZagne Project](https://github.com/user-attachments/assets/68ef87b2-4a5d-4626-9219-5dd6bc6d779b)
+![11 Download](https://github.com/user-attachments/assets/79aa9ac2-ffec-47a1-8e66-365398a7c41f)
+![12 Cant Download](https://github.com/user-attachments/assets/6cc48fce-85ab-44d6-aac6-c9ad31661124)
+![13  Virus and Protection](https://github.com/user-attachments/assets/8112ed12-af58-4f79-800b-475c119b30a2)
+![14 Can keep](https://github.com/user-attachments/assets/35ee8b61-1e3a-463d-9102-973c48902688)
+![15  Open Lazagne](https://github.com/user-attachments/assets/4a4e12ff-39d9-4262-a036-602bd839da34)
+![16  D R Rule-Detect](https://github.com/user-attachments/assets/ecece079-3e0d-4870-984c-57bafaa5e048)
+![17  D R Rule-Respond](https://github.com/user-attachments/assets/d318500e-69de-48e0-9283-d0b89e8e8a9f)
+![18 D R Creation](https://github.com/user-attachments/assets/1d6c2495-238e-4e2a-8c6d-c0ada772213c)
+![19 Create Slack](https://github.com/user-attachments/assets/19bdd27d-6215-492c-9e7d-9984350301c9)
+![20 Tines](https://github.com/user-attachments/assets/e846b78c-0f8d-4013-82ad-0c504289e6ef)
+![20 Tines](https://github.com/user-attachments/assets/4411a7f1-a1e4-4665-899b-c9119aa0c5cf)
+![22 Create Ouput](https://github.com/user-attachments/assets/8c26f803-2c21-443b-ba2e-fdbaba4bf381)
+![23 Events Reflected](https://github.com/user-attachments/assets/1e0b4869-f478-4a6b-bcba-b30fbd96683b)
+![24 Create Credentials](https://github.com/user-attachments/assets/2848fe22-13ad-4625-85ab-0eddb9d23241)
+![25 Credential-Slack](https://github.com/user-attachments/assets/850efb65-3f2d-4a66-9ab2-dc368c444247)
+![26 Copy LC API](https://github.com/user-attachments/assets/9c2efa60-9b12-4c91-be31-65f4b70e4e2f)
+![27 Credential-LC](https://github.com/user-attachments/assets/d513b565-785a-408c-801e-6a75a7d2fc05)
+![28 Copy Slack-Alert-Channel ID](https://github.com/user-attachments/assets/afc2d499-6cd6-4ee7-bf99-7129c439666e)
+![29 Slack Channel ID](https://github.com/user-attachments/assets/4646345b-b608-42f0-b7d8-b4613841f706)
+![30 Automation add Tines](https://github.com/user-attachments/assets/a5b77bd6-46b3-480e-9d6c-642c070cd3c2)
+![31 Message Received](https://github.com/user-attachments/assets/547973de-ded7-4462-a5f9-69a4ef3a4960)
+![32 Email](https://github.com/user-attachments/assets/200e9b68-825d-4132-9e19-9ba65e236fd0)
+![34  User Prompt](https://github.com/user-attachments/assets/0e255de8-3ba4-4174-b560-fc3fb5e0ede2)
+![35 User Prompt 1](https://github.com/user-attachments/assets/d67aa9cf-70b5-4b53-ae93-94d0010803dd)
+![36  Get Details](https://github.com/user-attachments/assets/f90b4e74-1b73-4145-b3aa-445b881f8f7e)
+![37  Slack Message](https://github.com/user-attachments/assets/f896efbf-7907-4314-8c55-1cc3083eeb7a)
+![38 Slack Message Reflected](https://github.com/user-attachments/assets/1086b6dd-61e0-4c6e-83d6-304ae394f1d0)
+![39 Email Message](https://github.com/user-attachments/assets/7f6f7300-887f-4588-a670-5c9c7907d50d)
+![40 Email received](https://github.com/user-attachments/assets/d5a2f369-530b-4691-b146-6e0a63bcf27b)
+![41  User Prompt_2](https://github.com/user-attachments/assets/12741b30-186d-403b-8e21-6c3dd202329a)
+![42 No Slack](https://github.com/user-attachments/assets/3c80ce15-541f-4840-8892-68ec56cd41b8)
+![42 No](https://github.com/user-attachments/assets/3ee89e18-42b1-4307-b251-9f3803309b06)
+![43 No Slack Message](https://github.com/user-attachments/assets/4692762c-5d72-4cba-82d3-7b0c497ab625)
+![43 Yes](https://github.com/user-attachments/assets/e6d0c739-a78f-4939-9b3e-384d6591ec92)
+![44 Isolate Sensor](https://github.com/user-attachments/assets/379d3474-8d63-48f8-8415-0f82bc66909c)
+![45 Isolating](https://github.com/user-attachments/assets/5b2c741d-f219-4215-a532-0b53ead3a868)
+![46 Isolated](https://github.com/user-attachments/assets/b1e9ea08-82b5-4cf8-b95c-312601380997)
+![47 Get Isolated Status](https://github.com/user-attachments/assets/457bd1cd-de4d-47fa-881b-a842cdcc3f28)
+![49 Isolated Computer](https://github.com/user-attachments/assets/1f4541e8-551f-4e6e-a28e-0813d043beda)
+![50](https://github.com/user-attachments/assets/a967ea72-5ef6-4fe1-97f8-cfa5a9b612bb)
+
+
+
+
+
+
+
+
+
